@@ -1,0 +1,19 @@
+{
+  "name": "for-comet",
+  "version": "1.0.0",
+  "description": "Simple antilink system, request from a friend",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anti-link"
+  ],
+  "author": "yasss",
+  "license": "ISC"
+}
